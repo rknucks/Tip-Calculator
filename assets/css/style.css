@@ -1,0 +1,9 @@
+#title {
+    text-align: center;
+}
+#pane {
+    border: solid black 2px;
+    height: 600px;
+    width: 800px;
+    margin-left: 25%;
+}
